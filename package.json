@@ -1,0 +1,14 @@
+{
+  "name": "lessnotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "changhengheng <321121653@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
