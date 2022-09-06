@@ -1,6 +1,8 @@
 # Less
 
-[文档链接](https://less.bootcss.com/)
+[中文文档链接](https://less.bootcss.com/)
+
+[英文文档链接](https://lesscss.org/)
 
 ::: tip 提示
 所有代码除过官网复制过来的，都是在真实环境下通过编译的
