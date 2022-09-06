@@ -6,8 +6,6 @@ export default defineUserConfig({
     description: '这是我的第一个 VuePress 站点',
     base: '/LessNotes/',
     dest: './dist',
-    repo:
-        'https://github.com/changhengheng/LessNotes',
     theme: defaultTheme({
         navbar: [
             '/lessLph/README.md',
